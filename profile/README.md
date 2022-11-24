@@ -14,7 +14,7 @@ He is good in <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
 </div>
-##
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drazoxXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,4 +22,4 @@ He is good in <div>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drazoxXD&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
-##
+
