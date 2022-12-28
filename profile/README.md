@@ -21,5 +21,21 @@ He is good in <div>
 
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drazoxXD&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+**GoodBananaHUN** 3 Year experience with Fivem Development
+He is good in <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodbananaHUN&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodbananaHUN&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
 
