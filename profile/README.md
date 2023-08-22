@@ -2,7 +2,10 @@
 We are a small development team! We are not professionals in this but we can make some good scripts!
 We are gonna make some Hungarian scripts but mostly English!
 
-
+# Our links:
+Shop URL: https://nightdream.tebex.io/
+Discord link: https://discord.gg/F645VHYVZ9
+ko-fi page: https://ko-fi.com/nightdreamdevelopments 
 
 
 # Members stats
