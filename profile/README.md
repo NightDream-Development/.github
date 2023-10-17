@@ -12,7 +12,7 @@ We are gonna make some Hungarian scripts but mostly English!
 
 
 # Members stats
-**Drazox** 2 Year experience with Fivem Development
+**Drazox** 3 Year experience with Fivem Development
 He is good in <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@ He is good in <div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drazoxXD&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**GoodBananaHUN** 3 Year experience with Fivem Development
+**GoodBananaHUN** 4 Year experience with Fivem Development
 He is good in <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
